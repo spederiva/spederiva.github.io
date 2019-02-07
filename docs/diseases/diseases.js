@@ -1,4 +1,5 @@
 window.data = window.data || {};
+data.VERSION = '2019-02-07 09:53';
 data.diseases = [
   {
     "id": "5-14-26",
