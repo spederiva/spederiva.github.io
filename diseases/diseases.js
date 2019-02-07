@@ -1,4 +1,5 @@
-[
+window.data = window.data || {};
+data.diseases = [
   {
     "id": "5-14-26",
     "disease_hebrew": "אנגינה פקטוריס",
