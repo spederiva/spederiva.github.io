@@ -1036,4 +1036,5 @@ data.diseases = [{
     "is_the_patient_suffering_from_diseases": "יש לי היסטוריה של לחץ דם",
     "special_complains": "״מרגיש דפיקות לב מלפני שעה״"
   }
-}, ]
+}, 
+]
