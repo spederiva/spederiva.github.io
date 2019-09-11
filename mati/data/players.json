@@ -1,0 +1,162 @@
+{
+  "players": [
+    {
+      "player_photo": "katash.jpg",
+      "player_name": "עודד קטש",
+      "europe_pts": 1011,
+      "israel_pts": 1238
+    },
+    {
+      "player_subName": "tito",
+      "player_name": "נדב הנפלד",
+      "europe_pts": 1519,
+      "israel_pts": 2438
+    },
+    {
+      "player_name": "קני בארלו",
+      "europe_pts": 867,
+      "israel_pts": 968
+    },
+    {
+      "player_name": "דיוויד בלו",
+      "europe_pts": 1244,
+      "israel_pts": 1585
+    },
+    {
+      "player_name": "גיא פניני",
+      "europe_pts": 744,
+      "israel_pts": 1656
+    },
+    {
+      "player_name": "טל בורשטיין",
+      "europe_pts": 1214,
+      "israel_pts": 2043
+    },
+    {
+      "player_name": "אריאל מקדונלד",
+      "europe_pts": 874,
+      "israel_pts": 825
+    },
+    {
+      "player_name": "מוטי דניאל",
+      "europe_pts": 1149,
+      "israel_pts": 2281
+    },
+    {
+      "player_name": "לו סילבר",
+      "europe_pts": 1999,
+      "israel_pts": 3195
+    },
+    {
+      "player_name": "אולסי פרי",
+      "europe_pts": 2077,
+      "israel_pts": 2171
+    },
+    {
+      "player_name": "נייט האפמן",
+      "europe_pts": 1137,
+      "israel_pts": 1244
+    },
+    {
+      "player_name": "לי ג'ונסון",
+      "europe_pts": 990,
+      "israel_pts": 944
+    },
+    {
+      "player_name": "לבאן מרסר",
+      "europe_pts": 938,
+      "israel_pts": 1333
+    },
+    {
+      "player_name": "מייסאו באסטון",
+      "europe_pts": 929,
+      "israel_pts": 869
+    },
+    {
+      "player_name": "דורון שפר",
+      "europe_pts": 926,
+      "israel_pts": 1105
+    },
+    {
+      "player_name": "סופוקליס שחורציאניטיס",
+      "europe_pts": 901,
+      "israel_pts": 680
+    },
+    {
+      "player_name": "מוטי ארואסטי",
+      "europe_pts": 873,
+      "israel_pts": 2067
+    },
+    {
+      "player_name": "מיקי ברקוביץ'",
+      "europe_pts": 3588,
+      "israel_pts": 6060
+    },
+    {
+      "player_name": "יוגב אוחיון",
+      "europe_pts": 784,
+      "israel_pts": 1163
+    },
+    {
+      "player_name": "דווין סמית'",
+      "europe_pts": 1539,
+      "israel_pts": 1598
+    },
+    {
+      "player_name": "דורון ג'מצ'י",
+      "europe_pts": 3262,
+      "israel_pts": 4896
+    },
+    {
+      "player_name": "קווין מגי",
+      "europe_pts": 2081,
+      "israel_pts": 3215
+    },
+    {
+      "player_name": "מוטי ארואסטי",
+      "europe_pts": 873,
+      "israel_pts": 2067
+    },
+    {
+      "player_name": "אנתוני פארקר",
+      "europe_pts": 1804,
+      "israel_pts": 1566
+    },
+    {
+      "player_name": "ארל וויליאמס",
+      "europe_pts": 1227,
+      "israel_pts": 1405
+    },
+    {
+      "player_name": "אלכס טיוס",
+      "europe_pts": 797,
+      "israel_pts": 865
+    },
+    {
+      "player_name": "דריק שארפ",
+      "europe_pts": 1749,
+      "israel_pts": 2664
+    },
+    {
+      "player_name": "ניקולה וויצ'יץ'",
+      "europe_pts": 1730,
+      "israel_pts": 1669
+    },
+    {
+      "player_name": "ג'ים בוטרייט",
+      "europe_pts": 1481,
+      "israel_pts": 2282
+    },
+    {
+      "player_name": "טל ברודי",
+      "europe_pts": 1378,
+      "israel_pts": 4049
+    },
+    {
+      "player_photo": "katash.jpg",
+      "player_name": "ליאור אליהו",
+      "europe_pts": 1097,
+      "israel_pts": 1599
+    }
+  ]
+}

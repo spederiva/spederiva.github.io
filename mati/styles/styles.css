@@ -1,0 +1,25 @@
+body{
+    padding: 10px;
+}
+
+.player{
+    margin-bottom: 10px;
+
+    border: 1px solid red;
+
+    display: table;
+    min-width: 250px;
+}
+
+.player .name{
+    font-weight: bold;
+    font-size: 20px;
+
+    padding-bottom: 5px;
+}
+
+.img img{
+    height: 100px;
+}
+
+
